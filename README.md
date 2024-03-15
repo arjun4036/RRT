@@ -5,7 +5,9 @@ This Python script generates a visualization of the Rapidly-exploring Random Tre
 **Requirements**
 
 Python 3.x
+
 Pygame library
+
 Ubuntu 20
 
 **Installation**
