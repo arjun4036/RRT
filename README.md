@@ -12,21 +12,21 @@ Ubuntu 20
 
 1. **Clone the repository**
    
-git clone https://github.com/username/project.git
+$ git clone https://github.com/username/project.git
 
 2.**Navigate to the project directory:**
 
-cd project
+$ cd project
 
 3.**Install Pygame library:**
 
-pip install pygame
+$ pip install pygame
 
 **Usage**
 
 1. **Run the Python script:**
 
-python rrt_visualization.py
+$ python rrt_visualization.py
 
 2.Follow the prompts to input the start and goal coordinates, as well as the number and positions of obstacles.
 3.Once the visualization window opens, it will display the RRT algorithm's progress, including the tree expansion, obstacles, start and goal nodes, and the final path.
