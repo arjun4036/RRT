@@ -12,7 +12,7 @@ Ubuntu 20
 
 1. **Clone the repository**
    
-$ git clone https://github.com/username/project.git
+$ git clone https://github.com/arjun4036/RRT.git
 
 2.**Navigate to the project directory:**
 
