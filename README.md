@@ -26,7 +26,7 @@ $ pip install pygame
 
 **Usage**
 
-1. **Run the Python script:**
+1.**Run the Python script:**
 
 $ python rrt.py
 
