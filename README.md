@@ -31,7 +31,9 @@ $ pip install pygame
 $ python rrt.py
 
 2.Follow the prompts to input the start and goal coordinates, as well as the number and positions of obstacles.
+
 3.Once the visualization window opens, it will display the RRT algorithm's progress, including the tree expansion, obstacles, start and goal nodes, and the final path.
+
 4.Close the visualization window to exit the program.
 
 **Customization**
